@@ -56,7 +56,7 @@ Daily Intelligence Briefing
 - MBA interview/GD preparation
 - Automated daily reporting
 
-![n8n Workflow Architecture](docs/workflow.png)
+![n8n Workflow Architecture](docs/workflow_n8n.png)
 
 ## Future Improvements
 
